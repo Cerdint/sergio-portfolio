@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Backend developer",
+    "organisation": "Univalle",
+    "startDate": "Feb, 2024",
+    "endDate": "Dec, 2024",
+    "experiences": ["Backend CDN", "Validation Schemas", "Auth JWT"],
+    "imageSrc": "history/univalle.png"
+  },
+  {
+    "role": "ICPC Participan",
+    "organisation": "ICPC Foundation",
+    "startDate": "Aug, 2022",
+    "endDate": "Aug, 2022",
+    "experiences": ["TeamWork", "Participant clasified"],
+    "imageSrc": "history/ICPC.png"
+  }
+]
